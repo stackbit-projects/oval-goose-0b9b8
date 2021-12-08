@@ -54,5 +54,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://oval-goose-0b9b8.netlify.app"
 }
